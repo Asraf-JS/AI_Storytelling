@@ -2,7 +2,7 @@
 
 Everything you need for the programme, in one place.
 
-**Eli Lilly GBS KL** · 1.5 days · 5 modules · 10 hands-on labs
+**GBS KL** · 1.5 days · 5 modules · 10 hands-on labs
 
 ---
 
@@ -49,7 +49,7 @@ that being stuck never costs you the whole exercise.
 
 ## The dataset
 
-All of it is synthetic. There is **no real Eli Lilly data** in this file, so it is
+All of it is synthetic. There is **no real data** in this file, so it is
 completely safe to paste into Copilot or Claude.
 
 Four business domains, eleven data sheets:
